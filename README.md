@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Mahima!
 
-**Here are some ideas to get you started:**
+**Let Me Introduce Myself:**
 
 - 🌱 I’m currently learning Data Analytics Tools and Techniques
 - 👯 I’m looking to collaborate on Data Analysts
