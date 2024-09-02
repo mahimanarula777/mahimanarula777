@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Mahima!
 
 - 🌱 I’m currently learning Data Analytics Tools and Techniques
-- 👯 I’m looking to collaborate on Data Analysts
+- 👯 I’m looking to collaborate to Data Analysts
 
 ## About Me 🙋🏽‍♂️
 ###### 💬 Committed to continuous learning and staying at the forefront of emerging tools and trends in the dynamic data landscape.
